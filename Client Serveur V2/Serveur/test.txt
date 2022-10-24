@@ -1,0 +1,32 @@
+abdul : adada
+jean : adadad
+jul : adadad
+jul disconnected !jul disconnected !
+jean disconnected !
+
+abdul : oui
+jean : ahahah
+jul : tg
+jul disconnected !jul disconnected !
+jean disconnected !
+
+jul : oui
+jean : aha
+abdul : aaaaa
+jul disconnected !jul disconnected !
+jean disconnected !
+
+jul : ouii
+jul disconnected !jul disconnected !
+jean : /quit
+jean disconnected !
+
+Jul : oui
+jul : oui
+abdul : hhzhzh
+abdul : /quit
+abdul disconnected !abdul disconnected !
+Jul : /quit
+Jul disconnected !
+
+
